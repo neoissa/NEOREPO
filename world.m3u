@@ -1,44 +1,1303 @@
-
 #EXTM3U
-#EXTINF:-1,www.iptvsat.com| AR: MBC Pro Sports 3HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1390.ts
-#EXTINF:-1,www.iptvsat.com | AR: AD_Sports_2
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1391.ts
-#EXTINF:-1,www.iptvsat.com| AR: AD_Sports_1
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1392.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 9 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1393.ts
-#EXTINF:-1,www.iptvsat.com| AR:  beIN Sports 8 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1394.ts
-#EXTINF:-1,www.iptvsat.com| AR:  beIN Sports 7 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1395.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 6 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1396.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 5 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1397.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 4 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1398.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 3 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1399.ts
-#EXTINF:-1,www.iptvsat.com| AR:  beIN Sports 2 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1400.ts
-#EXTINF:-1,www.iptvsat.com | AR:  Bein Sports 17 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1401.ts
-#EXTINF:-1,www.iptvsat.com | AR:  Bein Sports 16 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1402.ts
-#EXTINF:-1,www.iptvsat.com | AR:  Bein Sports 15 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1403.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 14 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1404.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 13 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1405.ts
-#EXTINF:-1,www.iptvsat.com| AR:  beIN Sports 12 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1406.ts
-#EXTINF:-1,www.iptvsat.com| AR:  beIN Sports 11 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1407.ts
-#EXTINF:-1,www.iptvsat.com | AR:  beIN Sports 10 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1408.ts
-#EXTINF:-1,www.iptvsat.com| AR:  beIN Sports 1 HD
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1409.ts
-#EXTINF:-1,www.iptvsat.com| AR:  beIN SPorts
-http://iptvfree1.com:6969/live/facebook.com/groups/iptvfree/12/1410.ts
+#EXTINF:-1, Al gerie4   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1934.ts
+#EXTINF:-1, AL HAYAT   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1104.ts
+#EXTINF:-1, Al Kahera WalNas2   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1925.ts
+#EXTINF:-1, Al Maghribia   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1923.ts
+#EXTINF:-1, Al Nahar drama   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1918.ts
+#EXTINF:-1, Al Nahar2   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1921.ts
+#EXTINF:-1, Al hurra Iraq   [512x384]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/72.ts
+#EXTINF:-1, Aljazeera Doc   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/61.ts
+#EXTINF:-1, ART Cinema   [704x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1915.ts
+#EXTINF:-1, ART Hekayat Zaman   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1914.ts
+#EXTINF:-1, BBC Arabia   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1117.ts
+#EXTINF:-1, Cairo Drama   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1907.ts
+#EXTINF:-1, CANAL ALGERIE   [544x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1905.ts
+#EXTINF:-1, KTV 2   [640x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/68.ts
+#EXTINF:-1, Kuwait   [640x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/69.ts
+#EXTINF:-1, MBC4   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/123.ts
+#EXTINF:-1, Nile Drama   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1877.ts
+#EXTINF:-1, Nile Family   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1876.ts
+#EXTINF:-1, Syria Aloula   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/63.ts
+#EXTINF:-1, Syria Drama   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/64.ts
+#EXTINF:-1, Syria   [480x272]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/62.ts
+#EXTINF:-1, Syria Nour   [480x272]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/65.ts
+#EXTINF:-1, TOYOR ALJANAH   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1865.ts
+#EXTINF:-1, TRT Arabic   [1024x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/74.ts
+#EXTINF:-1,BEIN SPORT HD5   [1280x736]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1431.ts
+#EXTINF:-1,BEIN SPORT HD8   [1376x768]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1434.ts
+#EXTINF:-1,BEIN SPORT HD9   [1280x736]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1435.ts
+#EXTINF:-1,BEIN SPORTS 10HD   [1376x768]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1422.ts
+#EXTINF:-1,BEIN SPORTS 1HD   [720x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1421.ts
+#EXTINF:-1,BEIN SPORTS 4HD   [720x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1418.ts
+#EXTINF:-1, Telebarn   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/239.ts
+#EXTINF:-1, AKTUELL   [512x288]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/264.ts
+#EXTINF:-1, Austria 24 De   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/240.ts
+#EXTINF:-1, BADEN TV   [656x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/252.ts
+#EXTINF:-1, Das Erste   [960x544]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/221.ts
+#EXTINF:-1, Deutsche Welle   [720x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/232.ts
+#EXTINF:-1, Deutsches Anlegerfernsehen   [512x288]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/234.ts
+#EXTINF:-1, FEMSEHEN   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/253.ts
+#EXTINF:-1, Canal Extremadura TV   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/177.ts
+#EXTINF:-1, La Xarxa   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/181.ts
+#EXTINF:-1, 13 Max TV   [352x288]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/186.ts
+#EXTINF:-1, 5TV   [352x272]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/187.ts
+#EXTINF:-1, Andalucia 8 TV EspaA   [512x288]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/5.ts
+#EXTINF:-1, ANDORRA TV   [1280x720]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/6.ts
+#EXTINF:-1, Canal Extremadura   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/9.ts
+#EXTINF:-1, EURONEWS PT   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/18.ts
+#EXTINF:-1, Huesca TV EspaÃ&#177;a   [368x240]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/21.ts
+#EXTINF:-1, Huesca TV   [368x240]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/20.ts
+#EXTINF:-1, IB3   [320x192]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/22.ts
+#EXTINF:-1, La 1   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/28.ts
+#EXTINF:-1, M6   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/32.ts
+#EXTINF:-1, TELEANTILLAS   [480x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/35.ts
+#EXTINF:-1, 6ter   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/76.ts
+#EXTINF:-1, BFM Business   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/78.ts
+#EXTINF:-1, CANAL PLAY 2   [1280x544]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1167.ts
+#EXTINF:-1, CANAL PLAY 3   [1280x544]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1168.ts
+#EXTINF:-1, CINE FRISSON   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1161.ts
+#EXTINF:-1, CINE PREMIER   [720x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1162.ts
+#EXTINF:-1, CNA   [480x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/99.ts
+#EXTINF:-1, La Tele   [864x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/95.ts
+#EXTINF:-1, PTC   [512x288]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/80.ts
+#EXTINF:-1, Vevo Hip Hop TV   [960x544]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/89.ts
+#EXTINF:-1, Vevo Music TV   [960x544]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/88.ts
+#EXTINF:-1, Vevo ROCK TV   [960x544]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/92.ts
+#EXTINF:-1, O1   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/100.ts
+#EXTINF:-1, O2   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/101.ts
+#EXTINF:-1,INDIAN: IBN 7   [768x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1545.ts
+#EXTINF:-1,INDIAN: Mtunes HD   [768x432]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1539.ts
+#EXTINF:-1,INDIAN: NEWS 9   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1534.ts
+#EXTINF:-1,INDIAN: Nick   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1533.ts
+#EXTINF:-1,INDIAN: Set Max UK   [768x432]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1530.ts
+#EXTINF:-1,INDIAN: Sonic Nickelodeon   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1529.ts
+#EXTINF:-1,INDIAN: Sony TV HD   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1527.ts
+#EXTINF:-1,INDIAN: TEN ACTION   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1517.ts
+#EXTINF:-1, FOX SPORTS 1 HD   [1024x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1456.ts
+#EXTINF:-1, PREMIUM ACTION   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1477.ts
+#EXTINF:-1, PREMIUM CINEMA 1   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1473.ts
+#EXTINF:-1, PREMIUM CINEMA 2 24   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1476.ts
+#EXTINF:-1, PREMIUM CRIME   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1470.ts
+#EXTINF:-1, PREMIUM JOI   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1467.ts
+#EXTINF:-1, SKY CINEMA 1 HD   [1280x720]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1446.ts
+#EXTINF:-1, SKY CINEMA 24 HD   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1447.ts
+#EXTINF:-1, SKY SUPER TENNIS HD   [1024x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1464.ts
+#EXTINF:-1, STUDIO UNIVERSAL   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1466.ts
+#EXTINF:-1, AXN Black   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1851.ts
+#EXTINF:-1, AXN White   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1849.ts
+#EXTINF:-1, CBS Reality   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1846.ts
+#EXTINF:-1, DISCOVERY   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1815.ts
+#EXTINF:-1, FOX COMEDY   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1843.ts
+#EXTINF:-1, KINO POLSKA   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1835.ts
+#EXTINF:-1, LECH TV HD   [768x432]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1834.ts
+#EXTINF:-1, Polsat News   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1825.ts
+#EXTINF:-1, TVN   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1800.ts
+#EXTINF:-1, TVN Style   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1807.ts
+#EXTINF:-1, TVN Turbo   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1806.ts
+#EXTINF:-1, Antena 3 HD   [1280x720]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1860.ts
+#EXTINF:-1, AXN White   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1797.ts
+#EXTINF:-1, Canal Hollywood   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1794.ts
+#EXTINF:-1, FOX Life HD   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1789.ts
+#EXTINF:-1, Fox Crime   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1760.ts
+#EXTINF:-1, Globo   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1787.ts
+#EXTINF:-1, GLOBO PREMIUM   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1786.ts
+#EXTINF:-1, La Sexta HD   [1280x720]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1861.ts
+#EXTINF:-1, National Geographic HD   [1440x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1781.ts
+#EXTINF:-1, NICKELODEON   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1780.ts
+#EXTINF:-1, RTP 1   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1777.ts
+#EXTINF:-1, TVCine 1 HD   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1761.ts
+#EXTINF:-1, TVCine 2 HD   [1920x1088]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1762.ts
+#EXTINF:-1, TVI24   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1858.ts
+#EXTINF:-1,Real Madrid TV   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1026.ts
+#EXTINF:-1, A9 TV   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/504.ts
+#EXTINF:-1, ADAPAZARI 54   [320x240]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/528.ts
+#EXTINF:-1, ALANYA ATV   [480x272]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/532.ts
+#EXTINF:-1, B TV   [480x272]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/506.ts
+#EXTINF:-1, DHA   [640x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/510.ts
+#EXTINF:-1, DOCUMANTARY   [720x592]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/511.ts
+#EXTINF:-1, DreamTÃ&#188;rk TV   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/500.ts
+#EXTINF:-1, DUZCE TV   [480x384]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/547.ts
+#EXTINF:-1, ES TV   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/550.ts
+#EXTINF:-1, KANAL 26 Eskisehir   [480x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1023.ts
+#EXTINF:-1, KANAL 66   [1280x720]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1024.ts
+#EXTINF:-1, KANAL ALANYA   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/567.ts
+#EXTINF:-1, KANAL BEN TV   [640x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1025.ts
+#EXTINF:-1, Kanal D HD   [640x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/501.ts
+#EXTINF:-1, KANAL TEK   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/519.ts
+#EXTINF:-1, SINEMA HD3   [672x384]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1017.ts
+#EXTINF:-1, SINEMA HD5   [672x384]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1019.ts
+#EXTINF:-1, 3E   [704x400]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1730.ts
+#EXTINF:-1, DISNEY   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1711.ts
+#EXTINF:-1, EURO SPORTS 1   [720x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1706.ts
+#EXTINF:-1, GOLD   [720x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1703.ts
+#EXTINF:-1, MUTV   [544x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1693.ts
+#EXTINF:-1, NICKTOONS   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1690.ts
+#EXTINF:-1, SKY 1   [544x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1686.ts
+#EXTINF:-1, SKY MOVEIS FAMILY   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1684.ts
+#EXTINF:-1, SKY MOVIES CRIME   [688x720]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1681.ts
+#EXTINF:-1, SKY SPORTS 1   [720x416]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1672.ts
+#EXTINF:-1, SKY SPORTS 2   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1673.ts
+#EXTINF:-1, THE VAULT   [768x432]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1669.ts
+#EXTINF:-1, TLC   [544x576]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1668.ts
+#EXTINF:-1, TRAVEL   [704x480]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1667.ts
+#EXTINF:-1, TRUE DRAMA   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1666.ts
+#EXTINF:-1, TRUE MOVIES 2   [640x368]
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1665.ts
+#EXTINF:-1,13 Hours   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1751.mkv
+#EXTINF:-1,1303 La Paura ha inizio   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/998.mkv
+#EXTINF:-1,2 FAST 2 FURIOUS   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/281.mkv
+#EXTINF:-1,ADULTI MOVIE 10   [704x394]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/215.mkv
+#EXTINF:-1,ADULTI MOVIE 2   [704x396]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/207.mkv
+#EXTINF:-1,ADULTI MOVIE 3   [720x408]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/208.mkv
+#EXTINF:-1,ADULTI MOVIE 4   [704x386]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/209.mkv
+#EXTINF:-1,ADULTI MOVIE 5   [720x404]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/210.mkv
+#EXTINF:-1,ADULTI MOVIE 6   [704x396]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/213.mkv
+#EXTINF:-1,ADULTI MOVIE 7   [656x336]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/211.mkv
+#EXTINF:-1,ADULTI MOVIE 8   [704x396]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/212.mkv
+#EXTINF:-1,Alaska   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1660.mkv
+#EXTINF:-1,ALB   Super Sports 2   [752x320]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1623.ts
+#EXTINF:-1,ALB   Super Sports 3   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1624.ts
+#EXTINF:-1,ALB   Super Sports 4   [704x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1625.ts
+#EXTINF:-1,ALICE   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/916.ts
+#EXTINF:-1,Alvin superstar   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1657.mkv
+#EXTINF:-1,Animal Planet   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/144.ts
+#EXTINF:-1,Appuntamento con l'amore   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1727.mkv
+#EXTINF:-1, Bein Sports 2   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1608.ts
+#EXTINF:-1, Bein Sports 3   [1376x768]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1609.ts
+#EXTINF:-1, Bein Sports 4   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1610.ts
+#EXTINF:-1, Bein Sports 6   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1612.ts
+#EXTINF:-1, Bein Sports 7   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1613.ts
+#EXTINF:-1, Bein Sports 8   [1376x768]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1614.ts
+#EXTINF:-1,Assolo   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1700.mkv
+#EXTINF:-1,Asterix e il Regno degli Dei   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1047.mkv
+#EXTINF:-1,Ave' Cesare   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1738.mkv
+#EXTINF:-1,Avenger Age of Ultron   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1048.mkv
+#EXTINF:-1,AXN +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/620.ts
+#EXTINF:-1,AXN HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/23.ts
+#EXTINF:-1,AXN Sci Fi   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/27.ts
+#EXTINF:-1,Batman VS Superman   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1756.mkv
+#EXTINF:-1,BBC Knowledge   Premium   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/121.ts
+#EXTINF:-1,Belle & Sebastien   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1707.mkv
+#EXTINF:-1,BENVENUTI AL SUD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/255.mkv
+#EXTINF:-1,BIG HERO 6   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/231.mkv
+#EXTINF:-1,Bike Channel   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/326.ts
+#EXTINF:-1,Black Mass L'ultimo Gangster   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1656.mkv
+#EXTINF:-1,Blow   [1920x1080]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/395.mkv
+#EXTINF:-1,BOING   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/539.ts
+#EXTINF:-1,Boomerang   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/66.ts
+#EXTINF:-1,Brooklyn   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1752.mkv
+#EXTINF:-1,By the Sea   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1746.mkv
+#EXTINF:-1,CACCIA e pesca   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/46.ts
+#EXTINF:-1,Canale 5 Dsl Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1558.ts
+#EXTINF:-1,Canale 5 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/138.ts
+#EXTINF:-1,Carol   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1761.mkv
+#EXTINF:-1,CARTONITO   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/516.ts
+#EXTINF:-1,Cartoon Network   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/65.ts
+#EXTINF:-1,Cenerentola 2015   Il Film   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1049.mkv
+#EXTINF:-1,CENTOXCENTO TV   [704x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/505.ts
+#EXTINF:-1,CI Crime + Investigation HD   [1920x1088]
+http://iptv.proff.co:15003/live/sergio12/sergio12/21.ts
+#EXTINF:-1,Cielo HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/198.ts
+#EXTINF:-1,Cinema 1 HD (DSL Lente)   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1579.ts
+#EXTINF:-1,Cinema 24 SD   [720x480]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1557.ts
+#EXTINF:-1,Cinema +1 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/2.ts
+#EXTINF:-1,Cinema +24 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/3.ts
+#EXTINF:-1,Cinema 1 (DSL Lente)   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1588.ts
+#EXTINF:-1,Cinema 1 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1.ts
+#EXTINF:-1,Cinema Classic HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/12.ts
+#EXTINF:-1,Cinema Comedy HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/9.ts
+#EXTINF:-1,Cinema Comedy SD   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1593.ts
+#EXTINF:-1,Cinema Cult HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/13.ts
+#EXTINF:-1,Cinema Family 1 HD (DSL Lente)   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1578.ts
+#EXTINF:-1,Cinema Family +1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/6.ts
+#EXTINF:-1,Cinema Family HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/5.ts
+#EXTINF:-1,Cinema HITS (DSL Lente)   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1587.ts
+#EXTINF:-1,Cinema Hits HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/4.ts
+#EXTINF:-1,Cinema Max +1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/11.ts
+#EXTINF:-1,Cinema Max HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/10.ts
+#EXTINF:-1,Cinema Max SD   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1592.ts
+#EXTINF:-1,Cinema Passion HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/7.ts
+#EXTINF:-1,CinemaFamily SD   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1591.ts
+#EXTINF:-1,Cinquanta sfumature di Grigio   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1600.mkv
+#EXTINF:-1,Class Horse TV   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1460.ts
+#EXTINF:-1,Clown   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/999.mkv
+#EXTINF:-1,Codice Genesi   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1024.mkv
+#EXTINF:-1,Comedy Central   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/24.ts
+#EXTINF:-1,CONSTANTINE   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/383.mkv
+#EXTINF:-1,Creed   Nato per combattere   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1697.mkv
+#EXTINF:-1,CRO   Arena Sports 1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1618.ts
+#EXTINF:-1,CRO   Arena Sports 2   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1619.ts
+#EXTINF:-1,CRO   Arena Sports 3   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1620.ts
+#EXTINF:-1,CRO   Arena Sports 4   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1621.ts
+#EXTINF:-1,CRO   Sport Klub 1   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1615.ts
+#EXTINF:-1,Daddy's Home   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1742.mkv
+#EXTINF:-1,Dark Places   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1743.mkv
+#EXTINF:-1, 1 2 3.TV   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1549.ts
+#EXTINF:-1, 13th Street   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1548.ts
+#EXTINF:-1, 3Sat   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1547.ts
+#EXTINF:-1, ARD   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1546.ts
+#EXTINF:-1, AXN Action   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1545.ts
+#EXTINF:-1, Cinema 24 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1537.ts
+#EXTINF:-1, Discovery Channel   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1536.ts
+#EXTINF:-1, Disney Channel   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1535.ts
+#EXTINF:-1, Disney Cinemagic   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1534.ts
+#EXTINF:-1, Disney XD   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1533.ts
+#EXTINF:-1, DMAX   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1532.ts
+#EXTINF:-1, HeimatKanal   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1531.ts
+#EXTINF:-1, History HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1530.ts
+#EXTINF:-1, Junior   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1529.ts
+#EXTINF:-1, Kabel Eins   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1528.ts
+#EXTINF:-1, KIKA   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1527.ts
+#EXTINF:-1, Kinowelt TV   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1526.ts
+#EXTINF:-1, MGM   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1525.ts
+#EXTINF:-1, N24   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1523.ts
+#EXTINF:-1, Nat Geo Wild   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1522.ts
+#EXTINF:-1, National Geographic   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1521.ts
+#EXTINF:-1, N TV   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1524.ts
+#EXTINF:-1, Pro 7 HD   [1920x1088]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1520.ts
+#EXTINF:-1, Pro Sieben Maxx   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1519.ts
+#EXTINF:-1, Romance TV   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1518.ts
+#EXTINF:-1, RTL 2   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1517.ts
+#EXTINF:-1, RTL Crime   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1516.ts
+#EXTINF:-1, RTL Living   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1515.ts
+#EXTINF:-1, RTL Nitro   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1514.ts
+#EXTINF:-1, RTL Passion   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1513.ts
+#EXTINF:-1, RTL Television   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1512.ts
+#EXTINF:-1, Sat 1 Gold   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1509.ts
+#EXTINF:-1, Sat 1   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1511.ts
+#EXTINF:-1, Sixx   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1508.ts
+#EXTINF:-1, Sky Action HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1507.ts
+#EXTINF:-1, Sky Atlantic   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1506.ts
+#EXTINF:-1, Sky Bundesliga 1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1505.ts
+#EXTINF:-1, Sky Cinema 1   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1503.ts
+#EXTINF:-1, Sky Cinema HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1502.ts
+#EXTINF:-1, Sky Comedy   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1501.ts
+#EXTINF:-1, Sky Emotion   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1500.ts
+#EXTINF:-1, Sky Hits   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1499.ts
+#EXTINF:-1, Sky Krimi   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1498.ts
+#EXTINF:-1, Sky Nostalgie   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1497.ts
+#EXTINF:-1, Sky Sport 1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1496.ts
+#EXTINF:-1, Sky Sport 2 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1495.ts
+#EXTINF:-1, Spiegel Geschichte   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1494.ts
+#EXTINF:-1, Sport News HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1493.ts
+#EXTINF:-1, Super RTL   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1492.ts
+#EXTINF:-1, SYFY   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1491.ts
+#EXTINF:-1, TLC   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1490.ts
+#EXTINF:-1, TNT Serie   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1489.ts
+#EXTINF:-1, VOX   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1488.ts
+#EXTINF:-1, ZDF Info   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1486.ts
+#EXTINF:-1, ZDF   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1487.ts
+#EXTINF:-1, ZDF Kultur   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1485.ts
+#EXTINF:-1,Fox Serie   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1484.ts
+#EXTINF:-1,DeA Junior   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/74.ts
+#EXTINF:-1,DeA Kids   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/67.ts
+#EXTINF:-1,Deadpool   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1710.mkv
+#EXTINF:-1,DeejayTV   [544x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/531.ts
+#EXTINF:-1,Discovery HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/56.ts
+#EXTINF:-1,Discovery Sci HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/58.ts
+#EXTINF:-1,Discovery T&L HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/59.ts
+#EXTINF:-1,Discovery World   Premium   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/119.ts
+#EXTINF:-1,Disney Channel +1   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/197.ts
+#EXTINF:-1,Disney Channel 1   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1571.ts
+#EXTINF:-1,Disney Junior   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/70.ts
+#EXTINF:-1,Disney XD HD   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/71.ts
+#EXTINF:-1,DMAX   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/204.ts
+#EXTINF:-1,Esotica tv   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/141.ts
+#EXTINF:-1,EuroSport 2 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/39.ts
+#EXTINF:-1,EuroSport HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/38.ts
+#EXTINF:-1,eXplora HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/146.ts
+#EXTINF:-1,Extraction   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1690.mkv
+#EXTINF:-1,FAST AND FURIOUS 6   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/284.mkv
+#EXTINF:-1,FAST AND FURIOUS 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1027.mkv
+#EXTINF:-1,FAST AND FURIOUS 4   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/285.mkv
+#EXTINF:-1,FAST AND FURIOUS 5   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/283.mkv
+#EXTINF:-1,FAST AND FURIOUS 7   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/511.mkv
+#EXTINF:-1,FAST AND FURIOUS   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/280.mkv
+#EXTINF:-1,Focus   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/199.ts
+#EXTINF:-1,FOR MUSIC   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/542.ts
+#EXTINF:-1,Fox +1   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/142.ts
+#EXTINF:-1,Fox Animation +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1717.ts
+#EXTINF:-1,Fox Animation HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/25.ts
+#EXTINF:-1,Fox Comedy +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1718.ts
+#EXTINF:-1,Fox Comedy HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/60.ts
+#EXTINF:-1,Fox Crime (Dsl Lente)   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1586.ts
+#EXTINF:-1,Fox Crime +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/236.ts
+#EXTINF:-1,Fox HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/18.ts
+#EXTINF:-1,Fox Life +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/235.ts
+#EXTINF:-1,Fox Life HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/19.ts
+#EXTINF:-1,Fox Life SD   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1590.ts
+#EXTINF:-1,Fox SD   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1589.ts
+#EXTINF:-1,Fox Sports HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/35.ts
+#EXTINF:-1,Franny   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1753.mkv
+#EXTINF:-1,Gambero Rosso HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/147.ts
+#EXTINF:-1,Game Therapy   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1748.mkv
+#EXTINF:-1,Ghosthunters   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1724.mkv
+#EXTINF:-1,Gli ultimi saranno ultimi   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1686.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 1 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1672.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 10 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1683.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 11 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1684.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 12 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1685.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 2 ep.   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1675.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 3 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1676.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 4 ep.   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1677.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 5 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1678.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 6 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1679.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 7 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1680.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 8 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1681.mkv
+#EXTINF:-1,GOMORRA II LA SERIE 9 ep.   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1682.mkv
+#EXTINF:-1,GOMORRA LA SERIE 1   [720x388]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/172.mkv
+#EXTINF:-1,GOMORRA LA SERIE 10   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/181.mkv
+#EXTINF:-1,GOMORRA LA SERIE 11   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/182.mkv
+#EXTINF:-1,GOMORRA LA SERIE 12   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/183.mkv
+#EXTINF:-1,GOMORRA LA SERIE 2   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/173.mkv
+#EXTINF:-1,GOMORRA LA SERIE 3   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/174.mkv
+#EXTINF:-1,GOMORRA LA SERIE 4   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/175.mkv
+#EXTINF:-1,GOMORRA LA SERIE 5   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/176.mkv
+#EXTINF:-1,GOMORRA LA SERIE 6   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/177.mkv
+#EXTINF:-1,GOMORRA LA SERIE 7   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/178.mkv
+#EXTINF:-1,GOMORRA LA SERIE 8   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/179.mkv
+#EXTINF:-1,GOMORRA LA SERIE 9   [720x384]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/180.mkv
+#EXTINF:-1,Good Kill   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1749.mkv
+#EXTINF:-1,Grandma   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1655.mkv
+#EXTINF:-1,Grimsby attenti a quell'altro   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1757.mkv
+#EXTINF:-1,Guardiani della Galassia   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1050.mkv
+#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE 1 PARTE   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/293.mkv
+#EXTINF:-1,HARRY POTTER E I DONI DELLA MORTE 2 PARTE   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/294.mkv
+#EXTINF:-1,HARRY POTTER E IL CALICE DI FUOCO   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/290.mkv
+#EXTINF:-1,HARRY POTTER E IL PRIGIONIERO DI AZKABAN   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/289.mkv
+#EXTINF:-1,HARRY POTTER E IL PRINCIPE MEZZOSANGUE   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/292.mkv
+#EXTINF:-1,HARRY POTTER E LA CAMERA DEI SEGRETI   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/288.mkv
+#EXTINF:-1,HARRY POTTER E LA PIETRA FILOSOFALE   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/287.mkv
+#EXTINF:-1,HARRY POTTER E L'ORDINE DELLA FENICE   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/291.mkv
+#EXTINF:-1,Heart of the Sea Le origini di Moby Dick   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1668.mkv
+#EXTINF:-1,History HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/61.ts
+#EXTINF:-1,Home   A casa   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1601.mkv
+#EXTINF:-1,Hotel Transylvania 2   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1602.mkv
+#EXTINF:-1,Humandroid   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1051.mkv
+#EXTINF:-1,Hunger Games   IL canto della rivolta   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1052.mkv
+#EXTINF:-1,Hunger Games Il Canto della rivolta Ep.2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1663.mkv
+#EXTINF:-1,Hustler HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1737.ts
+#EXTINF:-1,I Origins   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1000.mkv
+#EXTINF:-1,Il Cacciatore di Donne   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1010.mkv
+#EXTINF:-1,Il caso Spotlight   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1739.mkv
+#EXTINF:-1,Il fidanzato di mia sorella   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1654.mkv
+#EXTINF:-1,IL GLADIATORE   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/740.mkv
+#EXTINF:-1,Il mio grosso grasso matrimonio greco 2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1747.mkv
+#EXTINF:-1,Il Nome del Figlio   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1004.mkv
+#EXTINF:-1,Il Ponte delle Spie   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1661.mkv
+#EXTINF:-1,IL PRINCIPE ABUSIVO   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/257.mkv
+#EXTINF:-1,Il Ritorno dello Jedi Ep.6   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1473.mkv
+#EXTINF:-1,Il sapore del succcesso   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1740.mkv
+#EXTINF:-1,Il segreto dei suoi occhi   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1729.mkv
+#EXTINF:-1,Il viaggio di Arlo   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1483.mkv
+#EXTINF:-1,Il Viaggio di Norm   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1762.mkv
+#EXTINF:-1,Inside Out   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1605.mkv
+#EXTINF:-1,Inter Channel   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/43.ts
+#EXTINF:-1,Into the Woods   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1053.mkv
+#EXTINF:-1,Io che amo solo te   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1711.mkv
+#EXTINF:-1,Io e lei   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1692.mkv
+#EXTINF:-1,IRIS   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/540.ts
+#EXTINF:-1,Irrational Man   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1687.mkv
+#EXTINF:-1,ITA   AXN HD Dsl Lente   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1577.ts
+#EXTINF:-1,ITA   Premium Calcio HD Dsl Lente   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1576.ts
+#EXTINF:-1,ITA   Sky Cinema Max 1 HD Dsl Lente   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1575.ts
+#EXTINF:-1,ITA   Sky Sport 2 HD Dsl Lente   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1574.ts
+#EXTINF:-1,Italia 1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/139.ts
+#EXTINF:-1,Italia 2   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/536.ts
+#EXTINF:-1,Joker   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1653.mkv
+#EXTINF:-1,Joy   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1701.mkv
+#EXTINF:-1,JUVENTUS TV   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/42.ts
+#EXTINF:-1,K2   [544x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/382.ts
+#EXTINF:-1,Kristy   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1699.mkv
+#EXTINF:-1,Kungfu Panda 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1745.mkv
+#EXTINF:-1,L' A.S.S.O. nella manica   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1674.mkv
+#EXTINF:-1,L.A.Confidential   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1026.mkv
+#EXTINF:-1,La 5   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/537.ts
+#EXTINF:-1,LA 7   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/327.ts
+#EXTINF:-1,La FelicitÃ  Ã&#168; un sistema complesso   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1667.mkv
+#EXTINF:-1,La grande scommessa   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1696.mkv
+#EXTINF:-1,La Minaccia Fantasma Ep.1   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1468.mkv
+#EXTINF:-1,La Piramide   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1001.mkv
+#EXTINF:-1,La quinta onda   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1708.mkv
+#EXTINF:-1,La regola del gioco   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1652.mkv
+#EXTINF:-1,La scuola piu bella del mondo   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1599.mkv
+#EXTINF:-1,La Vendetta dei Sith Ep.3   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1470.mkv
+#EXTINF:-1,L'Attacco dei Cloni Ep.2   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1469.mkv
+#EXTINF:-1,Lazio Style Channel   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/44.ts
+#EXTINF:-1,Le vacanze del piccolo Nicolas   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1651.mkv
+#EXTINF:-1,Lei   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/26.ts
+#EXTINF:-1,L'impero colpisce ancora Ep.5   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1472.mkv
+#EXTINF:-1,Lo Hobbit   La battaglia delle cinque armate   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1054.mkv
+#EXTINF:-1,Ma tu di che segno 6   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1006.mkv
+#EXTINF:-1,Macbeth   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1763.mkv
+#EXTINF:-1,Magic Mike XXL   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1650.mkv
+#EXTINF:-1,MAN GA   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/143.ts
+#EXTINF:-1,MARCO POLO   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/917.ts
+#EXTINF:-1,Matrimonio al Sud   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1744.mkv
+#EXTINF:-1,Maze Runner Il Labirinto   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1649.mkv
+#EXTINF:-1,Milan Channel   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/41.ts
+#EXTINF:-1,Minions   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1603.mkv
+#EXTINF:-1,Missione Impossible II   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1553.mkv
+#EXTINF:-1,Missione Impossible III   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1554.mkv
+#EXTINF:-1,Missione Impossible   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1552.mkv
+#EXTINF:-1,Missione Impossible Prot.Fantasma   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1555.mkv
+#EXTINF:-1,Missione Impossible Rogue Nation   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1556.mkv
+#EXTINF:-1,Mon Roi   Il mio Re   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1764.mkv
+#EXTINF:-1,MOTOGP SD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1594.ts
+#EXTINF:-1,Mr. Holmes   Il mistero del caso irrisolto   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1728.mkv
+#EXTINF:-1,MTV8   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/541.ts
+#EXTINF:-1,Nat Geo Wild 1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1570.ts
+#EXTINF:-1,Natale col Boss   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1648.mkv
+#EXTINF:-1,NatGeo People HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/63.ts
+#EXTINF:-1,NatGeo Wild HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/62.ts
+#EXTINF:-1,NationalGeo HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/57.ts
+#EXTINF:-1,Never back Down 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1765.mkv
+#EXTINF:-1,Nick Junior   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/424.ts
+#EXTINF:-1,Nickelodeon   [1920x1088]
+http://iptv.proff.co:15003/live/sergio12/sergio12/69.ts
+#EXTINF:-1,No Escape   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1689.mkv
+#EXTINF:-1,Non c'Ã&#168; 2 senza Te   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1007.mkv
+#EXTINF:-1,Ogni maledetto Natale   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1008.mkv
+#EXTINF:-1,Onda su onda   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1725.mkv
+#EXTINF:-1,Ouija   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1002.mkv
+#EXTINF:-1,PADDINGTON 2014   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/333.mkv
+#EXTINF:-1,Padri e figlie   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1647.mkv
+#EXTINF:-1,Pan Viaggio nell'isola che non c'Ã&#168;   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1665.mkv
+#EXTINF:-1,PARAMOUNT CHANNEL   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1639.ts
+#EXTINF:-1,PESCA & caccia   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/47.ts
+#EXTINF:-1,Piccoli brividi   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1702.mkv
+#EXTINF:-1,PINK O TV   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/149.ts
+#EXTINF:-1,Point break   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1709.mkv
+#EXTINF:-1,Poker Italia 24   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/191.ts
+#EXTINF:-1,Premium Action +24   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/115.ts
+#EXTINF:-1,Premium Action HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/469.ts
+#EXTINF:-1,Premium Action HD X ADSL Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1582.ts
+#EXTINF:-1,Premium Calcio 1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/131.ts
+#EXTINF:-1,Premium Calcio 1   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/124.ts
+#EXTINF:-1,Premium Calcio 2   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/125.ts
+#EXTINF:-1,Premium Calcio 3   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/126.ts
+#EXTINF:-1,Premium Calcio 4   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/127.ts
+#EXTINF:-1,Premium Cinema +24   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/372.ts
+#EXTINF:-1,Premium Cinema 2 +24   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/466.ts
+#EXTINF:-1,Premium Cinema 2 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/465.ts
+#EXTINF:-1,Premium Cinema HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/88.ts
+#EXTINF:-1,Premium Cinema HD X ADSL Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1580.ts
+#EXTINF:-1,Premium Cinema2 HD X ADSL Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1581.ts
+#EXTINF:-1,Premium Comedy   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/111.ts
+#EXTINF:-1,Premium Crime +24   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/116.ts
+#EXTINF:-1,Premium Crime HD (DSL Lente)   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1573.ts
+#EXTINF:-1,Premium Crime HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/622.ts
+#EXTINF:-1,Premium Emotion   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/90.ts
+#EXTINF:-1,Premium Energy   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/89.ts
+#EXTINF:-1,Premium Joi   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/113.ts
+#EXTINF:-1,Premium Sport 2   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/122.ts
+#EXTINF:-1,Premium Sport Dsl Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1596.ts
+#EXTINF:-1,Premium Sport HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/468.ts
+#EXTINF:-1,Premium Stories   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/918.ts
+#EXTINF:-1,Premonition   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1726.mkv
+#EXTINF:-1,Primafila 1 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/92.mkv
+#EXTINF:-1,Primafila 10 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/108.ts
+#EXTINF:-1,Primafila 11 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/97.mkv
+#EXTINF:-1,Primafila 12 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/109.ts
+#EXTINF:-1,Primafila 13 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/98.mkv
+#EXTINF:-1,Primafila 14 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/110.ts
+#EXTINF:-1,Primafila 15 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/100.mkv
+#EXTINF:-1,Primafila 16 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/99.mkv
+#EXTINF:-1,Primafila 17 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/101.mkv
+#EXTINF:-1,Primafila 18 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/102.mkv
+#EXTINF:-1,Primafila 19 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/103.mkv
+#EXTINF:-1,Primafila 2 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/104.ts
+#EXTINF:-1,Primafila 3 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/93.mkv
+#EXTINF:-1,Primafila 4 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/105.ts
+#EXTINF:-1,Primafila 5 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/94.mkv
+#EXTINF:-1,Primafila 6 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/106.ts
+#EXTINF:-1,Primafila 7 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/95.mkv
+#EXTINF:-1,Primafila 8 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/107.ts
+#EXTINF:-1,Primafila 9 HD   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/96.mkv
+#EXTINF:-1,PRIMAVISIONE 1   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/151.mkv
+#EXTINF:-1,PRIMAVISIONE 2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/152.mkv
+#EXTINF:-1,PRIMAVISIONE 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/153.mkv
+#EXTINF:-1,PRIMAVISIONE 4   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/154.mkv
+#EXTINF:-1,PRIMAVISIONE 5   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/155.mkv
+#EXTINF:-1,PRIMAVISIONE 6   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/245.mkv
+#EXTINF:-1,PRIMAVISIONE 7   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/220.mkv
+#EXTINF:-1,PRIMAVISIONE 8   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/517.mkv
+#EXTINF:-1,Professor Cenerentolo   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1662.mkv
+#EXTINF:-1,Professore per Amore   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1646.mkv
+#EXTINF:-1,Proff Channel 1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1253.ts
+#EXTINF:-1,Proff Channel 2 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1254.ts
+#EXTINF:-1,Proff Channel 3 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1255.ts
+#EXTINF:-1,Proff Channel 4 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1256.ts
+#EXTINF:-1,Proff Channel 5 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1257.ts
+#EXTINF:-1,Proff Channel 7 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1259.ts
+#EXTINF:-1,Proff Channel 8 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1260.ts
+#EXTINF:-1,Proff Channel 9 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1261.ts
+#EXTINF:-1,PROFF HotClub 1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1474.ts
+#EXTINF:-1,PROFF HotClub 2   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1475.ts
+#EXTINF:-1,PROFF HotClub 3   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1476.ts
+#EXTINF:-1,PROFF HotClub 4   [6144x2]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1477.ts
+#EXTINF:-1,PROFF HotClub 5   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1478.ts
+#EXTINF:-1,Qualcosa di buono   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1669.mkv
+#EXTINF:-1,Rai 1 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/134.ts
+#EXTINF:-1,RAI 1 SD   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1721.ts
+#EXTINF:-1,Rai 2 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/135.ts
+#EXTINF:-1,RAI 2 SD   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1722.ts
+#EXTINF:-1,Rai 3 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/136.ts
+#EXTINF:-1,RAI 3 SD   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1723.ts
+#EXTINF:-1,Rai 4   [704x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/535.ts
+#EXTINF:-1,Rai Movie   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/534.ts
+#EXTINF:-1,RAI NEWS 24   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/533.ts
+#EXTINF:-1,Rai Premium   [704x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/532.ts
+#EXTINF:-1,Rai Sport 1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/243.ts
+#EXTINF:-1,Rai Sport 2   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/244.ts
+#EXTINF:-1,RAI YOYO   [704x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/470.ts
+#EXTINF:-1,Real Time HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/529.ts
+#EXTINF:-1,Redlight HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1736.ts
+#EXTINF:-1,Regression   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1760.mkv
+#EXTINF:-1,Remember   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1754.mkv
+#EXTINF:-1,Rete 4 HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/137.ts
+#EXTINF:-1,Revenant   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1698.mkv
+#EXTINF:-1,Reversal   La fuga Ã&#168; solo l'inizio   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1730.mkv
+#EXTINF:-1,Risorto   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1750.mkv
+#EXTINF:-1,Room   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1731.mkv
+#EXTINF:-1,RSI LA 1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/232.ts
+#EXTINF:-1,RSI LA 2   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/233.ts
+#EXTINF:-1,SCT   [544x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/140.ts
+#EXTINF:-1,Scusate se esisto   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1009.mkv
+#EXTINF:-1,Se mi lasci non vale   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1703.mkv
+#EXTINF:-1,Selekt 2   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1637.ts
+#EXTINF:-1,Selekt 3   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1636.ts
+#EXTINF:-1,Selekt 4   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1635.ts
+#EXTINF:-1,Selekt 5   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1634.ts
+#EXTINF:-1,Selekt 6   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1633.ts
+#EXTINF:-1,Selekt 7   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1632.ts
+#EXTINF:-1,Selekt 8   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1631.ts
+#EXTINF:-1,Selekt 9   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1630.ts
+#EXTINF:-1,Self/Less   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1645.mkv
+#EXTINF:-1,SESTO SENSO TV   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/148.ts
+#EXTINF:-1,SHERLOCK 1Ã&#8218;Â&#176; STAGIONE EP 1   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/229.mkv
+#EXTINF:-1,SHERLOCK 1Ã&#8218;Â&#176; STAGIONE EP 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/222.mkv
+#EXTINF:-1,SHERLOCK 1Ã&#8218;Â&#176; STAGIONE EP. 2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/221.mkv
+#EXTINF:-1,SHERLOCK 2Ã&#8218;Â&#176; STAGIONE EP 1   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/223.mkv
+#EXTINF:-1,SHERLOCK 2Ã&#8218;Â&#176; STAGIONE EP 2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/224.mkv
+#EXTINF:-1,SHERLOCK 2Ã&#8218;Â&#176; STAGIONE EP 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/225.mkv
+#EXTINF:-1,SHERLOCK 3Ã&#8218;Â&#176; STAGIONE EP 1   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/226.mkv
+#EXTINF:-1,SHERLOCK 3Ã&#8218;Â&#176; STAGIONE EP 2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/227.mkv
+#EXTINF:-1,SHERLOCK 3Ã&#8218;Â&#176; STAGIONE EP 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/228.mkv
+#EXTINF:-1,Si Accettano Miracoli   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/434.mp4
+#EXTINF:-1,Sicario   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1688.mkv
+#EXTINF:-1,Single ma non troppo   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1712.mkv
+#EXTINF:-1,Sinister 2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1673.mkv
+#EXTINF:-1,Sky 3D   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/28.ts
+#EXTINF:-1,Sky Arte HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/22.ts
+#EXTINF:-1,Sky Atlantic (dsl Lente)   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1585.ts
+#EXTINF:-1,Sky Atlantic HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/16.ts
+#EXTINF:-1,SKY CALCIO 1 SD   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1482.ts
+#EXTINF:-1,Sky Calcio 2 Dsl Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1564.ts
+#EXTINF:-1,Sky Calcio 2 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/49.ts
+#EXTINF:-1,Sky Calcio 3 Dsl Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1565.ts
+#EXTINF:-1,Sky Calcio 3 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/50.ts
+#EXTINF:-1,Sky Calcio 4 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/51.ts
+#EXTINF:-1,Sky Cinema +24 +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1714.ts
+#EXTINF:-1,Sky Cinema Hits +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1715.ts
+#EXTINF:-1,Sky Cinema Passion +1   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1716.ts
+#EXTINF:-1,Sky Sport F1 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/36.ts
+#EXTINF:-1,Sky Sport 1 Dsl Lente   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1559.ts
+#EXTINF:-1,Sky Sport 1 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/30.ts
+#EXTINF:-1,Sky Sport 2 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/31.ts
+#EXTINF:-1,SKY Sport 24 (DSL Lente)   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1584.ts
+#EXTINF:-1,Sky Sport 24 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/29.ts
+#EXTINF:-1,Sky Sport 3 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/32.ts
+#EXTINF:-1,Sky Sport MotoGP HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/37.ts
+#EXTINF:-1,Sky Sport Plus HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/33.ts
+#EXTINF:-1,Sky Supercalcio HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/34.ts
+#EXTINF:-1,Sky TG 24 HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/75.ts
+#EXTINF:-1,Sky Uno (DSL Lente)   [720x416]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1583.ts
+#EXTINF:-1,Sky Uno HD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/15.ts
+#EXTINF:-1,Southpaw L'ultima Sfida   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1643.mkv
+#EXTINF:-1,Spectre   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1551.mkv
+#EXTINF:-1,SpongeBob Fuori dall'Acqua   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1604.mkv
+#EXTINF:-1,Sport F1 SD   [1280x736]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1562.ts
+#EXTINF:-1,Sport Plus SD   [720x480]
+http://iptv.proff.co:15003/live/sergio12/sergio12/1560.ts
+#EXTINF:-1,StarWars   Il Risveglio della Forza   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1691.mkv
+#EXTINF:-1,Steve Jobs   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1704.mkv
+#EXTINF:-1,Straight Outta Compton   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1642.avi
+#EXTINF:-1,Studio Universal   Premium   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/112.ts
+#EXTINF:-1,Super Tennis HD   [1280x720]
+http://iptv.proff.co:15003/live/sergio12/sergio12/557.ts
+#EXTINF:-1,Super!   [1024x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/515.ts
+#EXTINF:-1,Tartarughe Ninja   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1056.mkv
+#EXTINF:-1,TG COM 24   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/530.ts
+#EXTINF:-1,TGIRLS TV   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/150.ts
+#EXTINF:-1,The danish girl   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1713.mkv
+#EXTINF:-1,The Equalizer   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1023.mkv
+#EXTINF:-1,The green Inferno   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1693.mkv
+#EXTINF:-1,The last witch hunter   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1705.mkv
+#EXTINF:-1,The Lobster   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1695.mkv
+#EXTINF:-1,The Martian Sopravvissuto   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1644.mkv
+#EXTINF:-1,The other side of the door   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1759.mkv
+#EXTINF:-1,The program   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1706.mkv
+#EXTINF:-1,The Tourist   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/508.mkv
+#EXTINF:-1,The Visit   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1666.mkv
+#EXTINF:-1,Ti lascio perche ti amo troppo   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1606.mkv
+#EXTINF:-1,Topcrime   [720x576]
+http://iptv.proff.co:15003/live/sergio12/sergio12/196.ts
+#EXTINF:-1,Tracers   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1641.mkv
+#EXTINF:-1,Trilli e la creatura Legendaria   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1057.mkv
+#EXTINF:-1,Tutto puÃ&#178; accadere a Broadway   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1640.mkv
+#EXTINF:-1,Un paese quasi perfetto   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1755.mkv
+#EXTINF:-1,Una notte al Museo 3   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1055.mkv
+#EXTINF:-1,Una Nuova Speranza Ep.4   [960x540]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1471.mkv
+#EXTINF:-1,Vetrina Primafila   [1920x1080]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/156.mp4
+#EXTINF:-1,VETRINA PRIMAVISIONE   [1080x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/295.mkv
+#EXTINF:-1,Victor la vecchia storia di Frankestein   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1758.mkv
+#EXTINF:-1,Winx Club   Il mistero degli abissi   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1058.mkv
+#EXTINF:-1,Woman in gold   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1741.mkv
+#EXTINF:-1,Zoolander N.2   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1719.mkv
+#EXTINF:-1,Zootropolis   [1280x720]
+http://iptv.proff.co:15003/movie/sergio12/sergio12/1694.mkv
