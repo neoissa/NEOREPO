@@ -1,0 +1,973 @@
+#EXTM3U
+#EXTINF:-1,USA: ABC NEWS   [640x368]
+http://62.210.104.34:80/live/joseph/joseph/2761.ts
+#EXTINF:-1,USA: AFN SPORTS   [720x480]
+http://62.210.104.34:80/live/joseph/joseph/2776.ts
+#EXTINF:-1,USA: DTX   [1920x1088]
+http://62.210.104.34:80/live/joseph/joseph/2768.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD   [1920x1088]
+http://62.210.104.34:80/live/joseph/joseph/2770.ts
+#EXTINF:-1,USA: ABC NEWS   [640x368]
+http://62.210.104.34:80/live/toto/toto/2761.ts
+#EXTINF:-1,USA: AFN NEWS   [720x480]
+http://62.210.104.34:80/live/toto/toto/2777.ts
+#EXTINF:-1,USA: SPECTRUM   [720x480]
+http://62.210.104.34:80/live/joseph/joseph/2763.ts
+#EXTINF:-1,USA: AFN SPORTS 2   [720x480]
+http://62.210.104.34:80/live/toto/toto/2775.ts
+#EXTINF:-1,USA: DTX   [1920x1088]
+http://62.210.104.34:80/live/toto/toto/2768.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE HD   [1920x1088]
+http://62.210.104.34:80/live/toto/toto/2769.ts
+#EXTINF:-1,USA: PRIME ATLANTIC   [720x480]
+http://62.210.104.34:80/live/joseph/joseph/2765.ts
+#EXTINF:-1,USA: AFM PULSE   [720x480]
+http://62.210.104.34:80/live/joseph/joseph/2779.ts
+#EXTINF:-1,USA: AFM PULSE   [720x480]
+http://62.210.104.34:80/live/toto/toto/2779.ts
+#EXTINF:-1,USA: AFN SPORTS   [720x480]
+http://62.210.104.34:80/live/toto/toto/2776.ts
+#EXTINF:-1,USA: DISCOVERY ID XTRA HD   [1920x1088]
+http://62.210.104.34:80/live/toto/toto/2771.ts
+#EXTINF:-1,USA: AFN NEWS   [720x480]
+http://62.210.104.34:80/live/joseph/joseph/2777.ts
+#EXTINF:-1,Tsn 1 USA   [1280x720]
+http://37.59.13.76:2709/live/Seil001apo/8mc9Z6c9yB/654.ts
+#EXTINF:-1,RUS: Nickelodeon   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7654.ts
+#EXTINF:-1,RUS: Amedia Premium   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7647.ts
+#EXTINF:-1,RUS: Amedia 1   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7663.ts
+#EXTINF:-1,RUS: Amedia 2   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7661.ts
+#EXTINF:-1,(US) FOX Sport 2HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6968.ts
+#EXTINF:-1,RUS: JIMJAM   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7650.ts
+#EXTINF:-1,RUS: MCM TOP   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7649.ts
+#EXTINF:-1,RUS: TiJi   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7659.ts
+#EXTINF:-1,RUS: Discovery HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7025.ts
+#EXTINF:-1,(US) TSN 3   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6973.ts
+#EXTINF:-1,RUS: DISNEY CHANNEL   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7024.ts
+#EXTINF:-1,RUS: Cartoon Network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7026.ts
+#EXTINF:-1,(US) ESPN HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6967.ts
+#EXTINF:-1,RUS: Viasat Sport East   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7016.ts
+#EXTINF:-1, MMA FIGHT   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6953.ts
+#EXTINF:-1,(US) CNN HD   [544x576]
+http://89.163.148.31:8000/live/fernando/fernando/6966.ts
+#EXTINF:-1,RUS: TV3   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7017.ts
+#EXTINF:-1,RUS: EUROPA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7023.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6958.ts
+#EXTINF:-1,RUS: Gulli   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7022.ts
+#EXTINF:-1,RUS: Pervuy Kanal   [720x576]
+http://89.163.148.31:8000/live/fernando/fernando/7019.ts
+#EXTINF:-1,USA: Bet   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4609.ts
+#EXTINF:-1,RUS: Match Sports   [720x576]
+http://89.163.148.31:8000/live/fernando/fernando/7021.ts
+#EXTINF:-1, HBO Family   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6948.ts
+#EXTINF:-1,RUS: Russia 1   [720x576]
+http://89.163.148.31:8000/live/fernando/fernando/7018.ts
+#EXTINF:-1,USA: ABC Family   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4622.ts
+#EXTINF:-1,USA: Bein USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4582.ts
+#EXTINF:-1,RUS: Russia K   [720x576]
+http://89.163.148.31:8000/live/fernando/fernando/7527.ts
+#EXTINF:-1,(US) TSN 4   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6974.ts
+#EXTINF:-1, Tru HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6964.ts
+#EXTINF:-1,RUS: NTV   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/7020.ts
+#EXTINF:-1,(US) TSN 1   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6971.ts
+#EXTINF:-1,(US) NBA TV   [640x368]
+http://89.163.148.31:8000/live/fernando/fernando/6970.ts
+#EXTINF:-1, HBO SIGNATURE   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6949.ts
+#EXTINF:-1,(US) TSN 5   [704x352]
+http://89.163.148.31:8000/live/fernando/fernando/6975.ts
+#EXTINF:-1, HALLMARK   [864x480]
+http://89.163.148.31:8000/live/fernando/fernando/6946.ts
+#EXTINF:-1,USA: AXS   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4588.ts
+#EXTINF:-1,USA: Cinemax East   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4600.ts
+#EXTINF:-1, PAG HD   [1920x1088]
+http://89.163.148.31:8000/live/fernando/fernando/6956.ts
+#EXTINF:-1, Fight Network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6944.ts
+#EXTINF:-1,USA: HGTV   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4570.ts
+#EXTINF:-1,USA: ESPN News   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4612.ts
+#EXTINF:-1, LIFE TIME   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6952.ts
+#EXTINF:-1,USA: Fight Network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4580.ts
+#EXTINF:-1,USA: Bravo   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4610.ts
+#EXTINF:-1, CBS DRAMA   [544x576]
+http://89.163.148.31:8000/live/fernando/fernando/6941.ts
+#EXTINF:-1,USA: food network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4614.ts
+#EXTINF:-1,USA: CBS Sport   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4575.ts
+#EXTINF:-1,USA: ESPN 2   [720x480]
+http://89.163.148.31:8000/live/fernando/fernando/4583.ts
+#EXTINF:-1,USA: ABC USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4601.ts
+#EXTINF:-1, STAR Z CINEMA   [1024x576]
+http://89.163.148.31:8000/live/fernando/fernando/6959.ts
+#EXTINF:-1, TBS HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6963.ts
+#EXTINF:-1,USA: CBS   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4576.ts
+#EXTINF:-1,USA: ESPN Usa   [1024x576]
+http://89.163.148.31:8000/live/fernando/fernando/4604.ts
+#EXTINF:-1,USA: ESPN U   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4574.ts
+#EXTINF:-1,USA: AMC USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4602.ts
+#EXTINF:-1,USA: Hallmark   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4606.ts
+#EXTINF:-1, SPACE   [864x480]
+http://89.163.148.31:8000/live/fernando/fernando/6957.ts
+#EXTINF:-1,USA: Destination America   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4608.ts
+#EXTINF:-1,USA: A & E   [704x480]
+http://89.163.148.31:8000/live/fernando/fernando/4611.ts
+#EXTINF:-1,(US) ABC NEWS HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6965.ts
+#EXTINF:-1,USA: TSN 3   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4596.ts
+#EXTINF:-1,USA: MLB   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4621.ts
+#EXTINF:-1,(US) CNN HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6966.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4592.ts
+#EXTINF:-1,(US) TSN 2   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6972.ts
+#EXTINF:-1,USA: NBC Golf   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4586.ts
+#EXTINF:-1,USA: VH1   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4616.ts
+#EXTINF:-1,USA: sec network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4615.ts
+#EXTINF:-1,RUS: Amedia 1   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7663.ts
+#EXTINF:-1,USA: Showtime USA   [720x480]
+http://89.163.148.31:8000/live/fernando/fernando/4581.ts
+#EXTINF:-1,(US) TSN 3   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6973.ts
+#EXTINF:-1,USA: H2   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4572.ts
+#EXTINF:-1,(US) FOX Sport 2HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6968.ts
+#EXTINF:-1,(US) ESPN HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6967.ts
+#EXTINF:-1,USA: NBA USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4577.ts
+#EXTINF:-1,RUS: Amedia 2   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7661.ts
+#EXTINF:-1,RUS: Amedia Premium   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7647.ts
+#EXTINF:-1,USA: History   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4573.ts
+#EXTINF:-1,RUS: Discovery HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7025.ts
+#EXTINF:-1,USA: NBC Sports   [1920x544]
+http://89.163.148.31:8000/live/fernando/fernando/4587.ts
+#EXTINF:-1,USA: NBC USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4578.ts
+#EXTINF:-1,RUS: MCM TOP   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7649.ts
+#EXTINF:-1,(US) Fox Sports 1HD   [1024x576]
+http://89.163.148.31:8000/live/michele/michele/6969.ts
+#EXTINF:-1,USA: Willow HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4603.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4591.ts
+#EXTINF:-1,USA: TNT   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4571.ts
+#EXTINF:-1,RUS: JIMJAM   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7650.ts
+#EXTINF:-1,USA: Nick Jr   [720x416]
+http://89.163.148.31:8000/live/fernando/fernando/4617.ts
+#EXTINF:-1,USA: TSN 2   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4595.ts
+#EXTINF:-1,RUS: Cartoon Network   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7026.ts
+#EXTINF:-1,USA: Syfy USA   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4593.ts
+#EXTINF:-1,RUS: EUROPA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7023.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4590.ts
+#EXTINF:-1,USA: OWN   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4620.ts
+#EXTINF:-1,USA: womens entertainment   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4618.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4584.ts
+#EXTINF:-1,USA: TSN 5   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4598.ts
+#EXTINF:-1,RUS: Nickelodeon   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7654.ts
+#EXTINF:-1,RUS: Pervuy Kanal   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7019.ts
+#EXTINF:-1,RUS: Gulli   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7022.ts
+#EXTINF:-1,RUS: TiJi   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7659.ts
+#EXTINF:-1,USA: VEVO2   [480x272]
+http://89.163.148.31:8000/live/fernando/fernando/6981.ts
+#EXTINF:-1, NICK   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6954.ts
+#EXTINF:-1,USA: VEVO3   [480x272]
+http://89.163.148.31:8000/live/fernando/fernando/6982.ts
+#EXTINF:-1,USA: trutv   [960x544]
+http://89.163.148.31:8000/live/fernando/fernando/4619.ts
+#EXTINF:-1,(US) TSN 1   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6971.ts
+#EXTINF:-1,RUS: DISNEY CHANNEL   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7024.ts
+#EXTINF:-1,USA: USA Network   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4605.ts
+#EXTINF:-1,USA: VEVO1   [480x272]
+http://89.163.148.31:8000/live/fernando/fernando/6980.ts
+#EXTINF:-1,USA: TSN 1   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4594.ts
+#EXTINF:-1,USA: TSN 4   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/4597.ts
+#EXTINF:-1,RUS: Match Sports   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7021.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6958.ts
+#EXTINF:-1,USA: NBC Golf HD   [1280x720]
+http://89.163.148.31:8000/live/fernando/fernando/6979.ts
+#EXTINF:-1,USA: Fight Network   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4580.ts
+#EXTINF:-1,(US) NBA TV   [640x368]
+http://89.163.148.31:8000/live/michele/michele/6970.ts
+#EXTINF:-1,RUS: Viasat Sport East   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7016.ts
+#EXTINF:-1, MMA FIGHT   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6953.ts
+#EXTINF:-1,(US) TSN 4   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6974.ts
+#EXTINF:-1,USA: Hallmark   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4606.ts
+#EXTINF:-1,RUS: Russia K   [720x576]
+http://89.163.148.31:8000/live/michele/michele/7527.ts
+#EXTINF:-1,RUS: Russia 1   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/7018.ts
+#EXTINF:-1,USA: Bravo   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4610.ts
+#EXTINF:-1,USA: Bein USA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4582.ts
+#EXTINF:-1, Tru HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6964.ts
+#EXTINF:-1,USA: CBS   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4576.ts
+#EXTINF:-1,USA: NBC USA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4578.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4585.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4584.ts
+#EXTINF:-1, HBO East   [640x480]
+http://89.163.148.31:8000/live/michele/michele/6947.ts
+#EXTINF:-1,USA: H2   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4572.ts
+#EXTINF:-1,USA: MTV   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4613.ts
+#EXTINF:-1,USA: ESPN U   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4574.ts
+#EXTINF:-1, CBS DRAMA   [544x576]
+http://89.163.148.31:8000/live/michele/michele/6941.ts
+#EXTINF:-1,RUS: TV3   [720x576]
+http://89.163.148.31:8000/live/michele/michele/7017.ts
+#EXTINF:-1,RUS: NTV   [720x576]
+http://89.163.148.31:8000/live/michele/michele/7020.ts
+#EXTINF:-1,USA: NBC Golf   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4586.ts
+#EXTINF:-1, TBS HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6963.ts
+#EXTINF:-1,USA: ESPN 2   [720x480]
+http://89.163.148.31:8000/live/michele/michele/4583.ts
+#EXTINF:-1,USA: ESPN Usa   [1024x576]
+http://89.163.148.31:8000/live/michele/michele/4604.ts
+#EXTINF:-1,USA: CBS Sport   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4575.ts
+#EXTINF:-1, CBS REALITY   [544x576]
+http://89.163.148.31:8000/live/michele/michele/6943.ts
+#EXTINF:-1, Fight Network   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6944.ts
+#EXTINF:-1, STARS KIDS & FAMILY   [864x480]
+http://89.163.148.31:8000/live/michele/michele/6960.ts
+#EXTINF:-1, CBS ACTION   [544x576]
+http://89.163.148.31:8000/live/michele/michele/6940.ts
+#EXTINF:-1, CBS HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6942.ts
+#EXTINF:-1, HALLMARK   [864x480]
+http://89.163.148.31:8000/live/michele/michele/6946.ts
+#EXTINF:-1,USA: A & E   [704x480]
+http://89.163.148.31:8000/live/michele/michele/4611.ts
+#EXTINF:-1,USA: AMC USA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4602.ts
+#EXTINF:-1,USA: TNT   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4571.ts
+#EXTINF:-1,USA: TSN 3   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4596.ts
+#EXTINF:-1,USA: ABC USA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4601.ts
+#EXTINF:-1,USA: ESPN News   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4612.ts
+#EXTINF:-1,USA: NBA USA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4577.ts
+#EXTINF:-1,(US) FOX Sport 2HD   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6968.ts
+#EXTINF:-1,USA: Spike USA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4579.ts
+#EXTINF:-1, NICK   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6954.ts
+#EXTINF:-1,USA: MLB   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4621.ts
+#EXTINF:-1,RUS: Amedia 1   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7663.ts
+#EXTINF:-1,(US) TSN 3   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6973.ts
+#EXTINF:-1,RUS: Amedia 2   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7661.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4591.ts
+#EXTINF:-1, STAR Z CINEMA   [1024x576]
+http://89.163.148.31:8000/live/michele/michele/6959.ts
+#EXTINF:-1,USA: Showtime USA   [720x480]
+http://89.163.148.31:8000/live/michele/michele/4581.ts
+#EXTINF:-1,USA: trutv   [960x544]
+http://89.163.148.31:8000/live/michele/michele/4619.ts
+#EXTINF:-1,USA: OWN   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4620.ts
+#EXTINF:-1,RUS: JIMJAM   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7650.ts
+#EXTINF:-1,RUS: Amedia Premium   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7647.ts
+#EXTINF:-1,USA: Fox 1   [720x576]
+http://89.163.148.31:8000/live/michele/michele/4607.ts
+#EXTINF:-1,USA: TSN 5   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4598.ts
+#EXTINF:-1, LIFE TIME   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6952.ts
+#EXTINF:-1,USA: VH1   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4616.ts
+#EXTINF:-1,RUS: Nickelodeon   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7654.ts
+#EXTINF:-1,USA: NBC Sports   [1920x544]
+http://89.163.148.31:8000/live/michele/michele/4587.ts
+#EXTINF:-1,RUS: MCM TOP   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7649.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4590.ts
+#EXTINF:-1,RUS: EUROPA   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7023.ts
+#EXTINF:-1,USA: History   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4573.ts
+#EXTINF:-1,RUS: Viasat Sport East   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7016.ts
+#EXTINF:-1, PAG HD   [1920x1088]
+http://89.163.148.31:8000/live/michele/michele/6956.ts
+#EXTINF:-1,USA: HGTV   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4570.ts
+#EXTINF:-1,RUS: DISNEY CHANNEL   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7024.ts
+#EXTINF:-1,USA: TSN 4   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4597.ts
+#EXTINF:-1,RUS: TiJi   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7659.ts
+#EXTINF:-1,USA: Syfy USA   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4593.ts
+#EXTINF:-1,USA: NBC Golf HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6979.ts
+#EXTINF:-1,USA: WWE HD   [864x480]
+http://89.163.148.31:8000/live/michele/michele/6983.ts
+#EXTINF:-1,USA: Willow HD   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4603.ts
+#EXTINF:-1,USA: USA Network   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4605.ts
+#EXTINF:-1,USA: TSN 2   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/4595.ts
+#EXTINF:-1, MMA FIGHT   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6953.ts
+#EXTINF:-1,RUS: Cartoon Network   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7026.ts
+#EXTINF:-1,(US) TSN 1   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6971.ts
+#EXTINF:-1,RUS: NTV   [720x576]
+http://89.163.148.31:8000/live/ramon/ramon/7020.ts
+#EXTINF:-1,USA: A & E   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4611.ts
+#EXTINF:-1,RUS: Russia K   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/7527.ts
+#EXTINF:-1,USA: VEVO1   [480x272]
+http://89.163.148.31:8000/live/michele/michele/6980.ts
+#EXTINF:-1, Tru HD   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6964.ts
+#EXTINF:-1,RUS: Pervuy Kanal   [720x576]
+http://89.163.148.31:8000/live/ramon/ramon/7019.ts
+#EXTINF:-1,(US) NBA TV   [640x368]
+http://89.163.148.31:8000/live/ramon/ramon/6970.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6958.ts
+#EXTINF:-1,(US) TSN 5   [704x352]
+http://89.163.148.31:8000/live/ramon/ramon/6975.ts
+#EXTINF:-1,USA: VEVO2   [480x272]
+http://89.163.148.31:8000/live/michele/michele/6981.ts
+#EXTINF:-1,USA: Bet   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4609.ts
+#EXTINF:-1,(US) CNN HD   [544x576]
+http://89.163.148.31:8000/live/ramon/ramon/6966.ts
+#EXTINF:-1,USA: AXS   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4588.ts
+#EXTINF:-1,USA: CBS Sport   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4575.ts
+#EXTINF:-1,RUS: Russia 1   [720x576]
+http://89.163.148.31:8000/live/ramon/ramon/7018.ts
+#EXTINF:-1,USA: ABC Family   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4622.ts
+#EXTINF:-1,USA: VEVO3   [480x272]
+http://89.163.148.31:8000/live/michele/michele/6982.ts
+#EXTINF:-1,(US) TSN 4   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6974.ts
+#EXTINF:-1,RUS: TV3   [720x576]
+http://89.163.148.31:8000/live/ramon/ramon/7017.ts
+#EXTINF:-1,USA: Bein USA   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4582.ts
+#EXTINF:-1,USA: Cinemax East   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4600.ts
+#EXTINF:-1,USA: ESPN News   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4612.ts
+#EXTINF:-1,USA: Destination America   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4608.ts
+#EXTINF:-1, CBS REALITY   [544x576]
+http://89.163.148.31:8000/live/ramon/ramon/6943.ts
+#EXTINF:-1,USA: CBS   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4576.ts
+#EXTINF:-1,USA: MLB   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4621.ts
+#EXTINF:-1,USA: AMC USA   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4602.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4584.ts
+#EXTINF:-1,USA: Fight Network   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4580.ts
+#EXTINF:-1,USA: Bravo   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4610.ts
+#EXTINF:-1, CBS ACTION   [544x576]
+http://89.163.148.31:8000/live/ramon/ramon/6940.ts
+#EXTINF:-1,USA: H2   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4572.ts
+#EXTINF:-1,USA: NBC Golf   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4586.ts
+#EXTINF:-1, CBS DRAMA   [544x576]
+http://89.163.148.31:8000/live/ramon/ramon/6941.ts
+#EXTINF:-1,USA: food network   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4614.ts
+#EXTINF:-1,USA: ESPN U   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4574.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4585.ts
+#EXTINF:-1, CBS HD   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6942.ts
+#EXTINF:-1,USA: ESPN Usa   [1024x576]
+http://89.163.148.31:8000/live/ramon/ramon/4604.ts
+#EXTINF:-1, HBO East   [640x480]
+http://89.163.148.31:8000/live/ramon/ramon/6947.ts
+#EXTINF:-1, SPACE   [864x480]
+http://89.163.148.31:8000/live/ramon/ramon/6957.ts
+#EXTINF:-1, HALLMARK   [864x480]
+http://89.163.148.31:8000/live/ramon/ramon/6946.ts
+#EXTINF:-1, STARS KIDS & FAMILY   [864x480]
+http://89.163.148.31:8000/live/ramon/ramon/6960.ts
+#EXTINF:-1,USA: Spike USA   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4579.ts
+#EXTINF:-1,USA: MTV   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4613.ts
+#EXTINF:-1, NICK   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6954.ts
+#EXTINF:-1, LIFE TIME   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6952.ts
+#EXTINF:-1,USA: ABC USA   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4601.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4592.ts
+#EXTINF:-1,USA: womens entertainment   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4618.ts
+#EXTINF:-1,(US) TSN 2   [1280x720]
+http://89.163.148.31:8000/live/michele/michele/6972.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4587.ts
+#EXTINF:-1,RUS: Amedia 1   [1280x720]
+http://89.163.148.31:8000/live/support/support/7663.ts
+#EXTINF:-1,USA: VH1   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4616.ts
+#EXTINF:-1,USA: TSN 3   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4596.ts
+#EXTINF:-1,RUS: Amedia 2   [1280x720]
+http://89.163.148.31:8000/live/support/support/7661.ts
+#EXTINF:-1,(US) FOX Sport 2HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/6968.ts
+#EXTINF:-1,RUS: DISNEY CHANNEL   [1280x720]
+http://89.163.148.31:8000/live/support/support/7024.ts
+#EXTINF:-1, Fight Network   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6944.ts
+#EXTINF:-1,(US) ESPN HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/6967.ts
+#EXTINF:-1,(US) TSN 3   [1280x720]
+http://89.163.148.31:8000/live/support/support/6973.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4590.ts
+#EXTINF:-1,USA: TSN 4   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4597.ts
+#EXTINF:-1,RUS: Amedia Premium   [1280x720]
+http://89.163.148.31:8000/live/support/support/7647.ts
+#EXTINF:-1,RUS: JIMJAM   [1280x720]
+http://89.163.148.31:8000/live/support/support/7650.ts
+#EXTINF:-1, STAR Z CINEMA   [1024x576]
+http://89.163.148.31:8000/live/ramon/ramon/6959.ts
+#EXTINF:-1,RUS: Nickelodeon   [1280x720]
+http://89.163.148.31:8000/live/support/support/7654.ts
+#EXTINF:-1,RUS: EUROPA   [1280x720]
+http://89.163.148.31:8000/live/support/support/7023.ts
+#EXTINF:-1,RUS: Cartoon Network   [1280x720]
+http://89.163.148.31:8000/live/support/support/7026.ts
+#EXTINF:-1,USA: Nick Jr   [720x416]
+http://89.163.148.31:8000/live/ramon/ramon/4617.ts
+#EXTINF:-1, HBO SIGNATURE   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/6949.ts
+#EXTINF:-1,USA: trutv   [960x544]
+http://89.163.148.31:8000/live/ramon/ramon/4619.ts
+#EXTINF:-1,RUS: MCM TOP   [1280x720]
+http://89.163.148.31:8000/live/support/support/7649.ts
+#EXTINF:-1,RUS: Viasat Sport East   [1280x720]
+http://89.163.148.31:8000/live/support/support/7016.ts
+#EXTINF:-1,USA: TNT   [1024x576]
+http://89.163.148.31:8000/live/ramon/ramon/4571.ts
+#EXTINF:-1,RUS: TiJi   [1280x720]
+http://89.163.148.31:8000/live/support/support/7659.ts
+#EXTINF:-1,USA: History   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4573.ts
+#EXTINF:-1,USA: HGTV   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4570.ts
+#EXTINF:-1, PAG HD   [1920x1088]
+http://89.163.148.31:8000/live/ramon/ramon/6956.ts
+#EXTINF:-1,USA: Willow HD   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4603.ts
+#EXTINF:-1,USA: TSN 1   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4594.ts
+#EXTINF:-1,USA: OWN   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4620.ts
+#EXTINF:-1,RUS: Gulli   [1280x720]
+http://89.163.148.31:8000/live/support/support/7022.ts
+#EXTINF:-1,USA: Syfy USA   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4593.ts
+#EXTINF:-1,RUS: Match Sports   [720x576]
+http://89.163.148.31:8000/live/support/support/7021.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4591.ts
+#EXTINF:-1,RUS: Russia 1   [720x576]
+http://89.163.148.31:8000/live/support/support/7018.ts
+#EXTINF:-1,USA: A & E   [1280x720]
+http://89.163.148.31:8000/live/support/support/4611.ts
+#EXTINF:-1, MMA FIGHT   [1280x720]
+http://89.163.148.31:8000/live/support/support/6953.ts
+#EXTINF:-1,(US) CNN HD   [544x576]
+http://89.163.148.31:8000/live/support/support/6966.ts
+#EXTINF:-1,(US) TSN 1   [1280x720]
+http://89.163.148.31:8000/live/support/support/6971.ts
+#EXTINF:-1,RUS: Pervuy Kanal   [720x576]
+http://89.163.148.31:8000/live/support/support/7019.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/support/support/6958.ts
+#EXTINF:-1,USA: WWE HD   [864x480]
+http://89.163.148.31:8000/live/ramon/ramon/6983.ts
+#EXTINF:-1,USA: CBS   [1280x720]
+http://89.163.148.31:8000/live/support/support/4576.ts
+#EXTINF:-1,(US) TSN 5   [704x352]
+http://89.163.148.31:8000/live/support/support/6975.ts
+#EXTINF:-1, Tru HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/6964.ts
+#EXTINF:-1,USA: AXS   [1280x720]
+http://89.163.148.31:8000/live/support/support/4588.ts
+#EXTINF:-1,USA: Bein USA   [1280x720]
+http://89.163.148.31:8000/live/support/support/4582.ts
+#EXTINF:-1,USA: ESPN 2   [720x480]
+http://89.163.148.31:8000/live/ramon/ramon/4583.ts
+#EXTINF:-1,USA: TSN 2   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4595.ts
+#EXTINF:-1,RUS: Discovery HD   [1920x1088]
+http://89.163.148.31:8000/live/support/support/7025.ts
+#EXTINF:-1, PAG HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/6956.ts
+#EXTINF:-1,USA: TSN 5   [1280x720]
+http://89.163.148.31:8000/live/ramon/ramon/4598.ts
+#EXTINF:-1,USA: Cinemax East   [1280x720]
+http://89.163.148.31:8000/live/support/support/4600.ts
+#EXTINF:-1,USA: CBS Sport   [1280x720]
+http://89.163.148.31:8000/live/support/support/4575.ts
+#EXTINF:-1, CBS ACTION   [544x576]
+http://89.163.148.31:8000/live/support/support/6940.ts
+#EXTINF:-1, CBS HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/6942.ts
+#EXTINF:-1,USA: Bet   [1280x720]
+http://89.163.148.31:8000/live/support/support/4609.ts
+#EXTINF:-1,RUS: NTV   [720x576]
+http://89.163.148.31:8000/live/support/support/7020.ts
+#EXTINF:-1,USA: Destination America   [1280x720]
+http://89.163.148.31:8000/live/support/support/4608.ts
+#EXTINF:-1,USA: Fight Network   [1280x720]
+http://89.163.148.31:8000/live/support/support/4580.ts
+#EXTINF:-1, LIFE TIME   [1280x720]
+http://89.163.148.31:8000/live/support/support/6952.ts
+#EXTINF:-1,(US) ABC NEWS HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/6965.ts
+#EXTINF:-1,USA: ABC Family   [1280x720]
+http://89.163.148.31:8000/live/support/support/4622.ts
+#EXTINF:-1,RUS: Russia K   [720x576]
+http://89.163.148.31:8000/live/support/support/7527.ts
+#EXTINF:-1,USA: ABC USA   [1280x720]
+http://89.163.148.31:8000/live/support/support/4601.ts
+#EXTINF:-1,USA: Bravo   [1280x720]
+http://89.163.148.31:8000/live/support/support/4610.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+http://89.163.148.31:8000/live/support/support/4584.ts
+#EXTINF:-1,(US) NBA TV   [640x368]
+http://89.163.148.31:8000/live/support/support/6970.ts
+#EXTINF:-1,USA: ESPN U   [1280x720]
+http://89.163.148.31:8000/live/support/support/4574.ts
+#EXTINF:-1, Fight Network   [1280x720]
+http://89.163.148.31:8000/live/support/support/6944.ts
+#EXTINF:-1,RUS: TV3   [720x576]
+http://89.163.148.31:8000/live/support/support/7017.ts
+#EXTINF:-1, HALLMARK   [864x480]
+http://89.163.148.31:8000/live/support/support/6946.ts
+#EXTINF:-1,USA: food network   [1280x720]
+http://89.163.148.31:8000/live/support/support/4614.ts
+#EXTINF:-1,USA: NBC Golf   [1280x720]
+http://89.163.148.31:8000/live/support/support/4586.ts
+#EXTINF:-1,USA: ESPN News   [1280x720]
+http://89.163.148.31:8000/live/support/support/4612.ts
+#EXTINF:-1,USA: MLB   [1280x720]
+http://89.163.148.31:8000/live/support/support/4621.ts
+#EXTINF:-1, CBS REALITY   [544x576]
+http://89.163.148.31:8000/live/support/support/6943.ts
+#EXTINF:-1, HBO East   [640x480]
+http://89.163.148.31:8000/live/support/support/6947.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+http://89.163.148.31:8000/live/support/support/4585.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+http://89.163.148.31:8000/live/support/support/4592.ts
+#EXTINF:-1,USA: Fox 1   [720x576]
+http://89.163.148.31:8000/live/support/support/4607.ts
+#EXTINF:-1,USA: AMC USA   [1280x720]
+http://89.163.148.31:8000/live/support/support/4602.ts
+#EXTINF:-1,USA: Hallmark   [1280x720]
+http://89.163.148.31:8000/live/support/support/4606.ts
+#EXTINF:-1,USA: NBC USA   [1280x720]
+http://89.163.148.31:8000/live/support/support/4578.ts
+#EXTINF:-1,USA: H2   [1280x720]
+http://89.163.148.31:8000/live/support/support/4572.ts
+#EXTINF:-1, STAR Z CINEMA   [1024x576]
+http://89.163.148.31:8000/live/support/support/6959.ts
+#EXTINF:-1,USA: ESPN 2   [720x480]
+http://89.163.148.31:8000/live/support/support/4583.ts
+#EXTINF:-1,USA: NBA USA   [1280x720]
+http://89.163.148.31:8000/live/support/support/4577.ts
+#EXTINF:-1,USA: Award cinema   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17056.ts
+#EXTINF:-1,USA: Willow HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/4603.ts
+#EXTINF:-1, HBO SIGNATURE   [1280x720]
+http://89.163.148.31:8000/live/support/support/6949.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+http://89.163.148.31:8000/live/support/support/4591.ts
+#EXTINF:-1,USA: sec network   [1280x720]
+http://89.163.148.31:8000/live/support/support/4615.ts
+#EXTINF:-1,USA: MTV   [1280x720]
+http://89.163.148.31:8000/live/support/support/4613.ts
+#EXTINF:-1,USA: TNT   [1024x576]
+http://89.163.148.31:8000/live/support/support/4571.ts
+#EXTINF:-1,USA: Spike USA   [1280x720]
+http://89.163.148.31:8000/live/support/support/4579.ts
+#EXTINF:-1,USA: Nick Jr   [720x416]
+http://89.163.148.31:8000/live/support/support/4617.ts
+#EXTINF:-1,USA: NBC Golf HD   [1280x720]
+http://89.163.148.31:8000/live/support/support/6979.ts
+#EXTINF:-1,USA: Ctv yorkton   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17032.ts
+#EXTINF:-1,USA: HGTV   [1280x720]
+http://89.163.148.31:8000/live/support/support/4570.ts
+#EXTINF:-1,USA: Ctv regina   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17030.ts
+#EXTINF:-1,USA: ESPN Usa   [1024x576]
+http://89.163.148.31:8000/live/support/support/4604.ts
+#EXTINF:-1,USA: NBC Sports   [1920x544]
+http://89.163.148.31:8000/live/support/support/4587.ts
+#EXTINF:-1,USA: trutv   [960x544]
+http://89.163.148.31:8000/live/support/support/4619.ts
+#EXTINF:-1,USA: TSN 1   [1280x720]
+http://89.163.148.31:8000/live/support/support/4594.ts
+#EXTINF:-1,USA: OWN   [1280x720]
+http://89.163.148.31:8000/live/support/support/4620.ts
+#EXTINF:-1,USA | C SPAN 2   [1024x576]
+http://51.254.197.114:8000/live/mic07/2101/23040.ts
+#EXTINF:-1,USA: American horrors   [640x480]
+http://51.254.197.114:8000/live/mic07/2101/17042.ts
+#EXTINF:-1,USA: Syfy USA   [1280x720]
+http://89.163.148.31:8000/live/support/support/4593.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+http://89.163.148.31:8000/live/support/support/4590.ts
+#EXTINF:-1,USA: TSN 5   [1280x720]
+http://89.163.148.31:8000/live/support/support/4598.ts
+#EXTINF:-1,USA TSN 1   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/15762.ts
+#EXTINF:-1,USA: TSN 3   [1280x720]
+http://89.163.148.31:8000/live/support/support/4596.ts
+#EXTINF:-1,USA: VEVO2   [480x272]
+http://89.163.148.31:8000/live/support/support/6981.ts
+#EXTINF:-1,USA: Bloodzillathon   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17052.ts
+#EXTINF:-1,USA: Battle rap   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17064.ts
+#EXTINF:-1,USA: TSN 2   [1280x720]
+http://89.163.148.31:8000/live/support/support/4595.ts
+#EXTINF:-1,USA ESPN 2   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/15768.ts
+#EXTINF:-1,USA | ABC LIVE 2   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/23035.ts
+#EXTINF:-1,USA: VEVO3   [480x272]
+http://89.163.148.31:8000/live/support/support/6982.ts
+#EXTINF:-1,USA: TSN 4   [1280x720]
+http://89.163.148.31:8000/live/support/support/4597.ts
+#EXTINF:-1,USA: American sport network   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17060.ts
+#EXTINF:-1,USA | ABC LIVE 1   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/23034.ts
+#EXTINF:-1,USA: Banned western   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17053.ts
+#EXTINF:-1,USA: VH1   [1280x720]
+http://89.163.148.31:8000/live/support/support/4616.ts
+#EXTINF:-1,USA: USA Network   [1280x720]
+http://89.163.148.31:8000/live/support/support/4605.ts
+#EXTINF:-1,USA: Bmovie   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17041.ts
+#EXTINF:-1,USA: Bloomberg USA   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/24255.ts
+#EXTINF:-1,USA: Cctv news usa   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17074.ts
+#EXTINF:-1,USA | C SPAN 3   [1024x576]
+http://51.254.197.114:8000/live/mic07/2101/23041.ts
+#EXTINF:-1,USA: Argentina CANAL 26 HD   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4599.ts
+#EXTINF:-1,USA: Chillings   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17034.ts
+#EXTINF:-1,USA: Al Jazeera for usa broadcast   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17071.ts
+#EXTINF:-1,USA: Breaking news   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17070.ts
+#EXTINF:-1,USA: CBS 47   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/24259.ts
+#EXTINF:-1,USA: Church Channel   [640x480]
+http://51.254.197.114:8000/live/mic07/2101/24884.ts
+#EXTINF:-1,USA | ABC LIVE 5   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/23038.ts
+#EXTINF:-1,USA: WWE HD   [864x480]
+http://89.163.148.31:8000/live/support/support/6983.ts
+#EXTINF:-1,USA: Bein USA   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/15775.ts
+#EXTINF:-1,USA | ABC LIVE 4   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/23037.ts
+#EXTINF:-1,USA: Coral Springs   [480x272]
+http://51.254.197.114:8000/live/mic07/2101/24258.ts
+#EXTINF:-1,USA: Argentina:Canal 4 HD 720 Jujuy   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/4604.ts
+#EXTINF:-1,USA: womens entertainment   [1280x720]
+http://89.163.148.31:8000/live/support/support/4618.ts
+#EXTINF:-1,USA: Dominicana TeleAntillas 2 HD   [480x368]
+http://51.254.197.114:8000/live/mic07/2101/4610.ts
+#EXTINF:-1,USA: CBS NEWS   [1920x1088]
+http://51.254.197.114:8000/live/mic07/2101/24248.ts
+#EXTINF:-1,USA: Discotk Channel   [720x400]
+http://51.254.197.114:8000/live/mic07/2101/24885.ts
+#EXTINF:-1,USA: FOX 23   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/24261.ts
+#EXTINF:-1,USA: Drive in tv   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17063.ts
+#EXTINF:-1,USA: Film on classic film   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17048.ts
+#EXTINF:-1,USA | ABC LIVE 3   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/23036.ts
+#EXTINF:-1,USA: Fotv usa   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17061.ts
+#EXTINF:-1,USA: Dvids tv   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17075.ts
+#EXTINF:-1,USA: Florida Channel   [400x304]
+http://51.254.197.114:8000/live/mic07/2101/4616.ts
+#EXTINF:-1,USA: Dragon area   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17046.ts
+#EXTINF:-1,USA: Job channel   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17078.ts
+#EXTINF:-1,USA: Euronews   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17076.ts
+#EXTINF:-1,USA: Macabre theatre   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17040.ts
+#EXTINF:-1,USA: KIRO 7 News   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/24262.ts
+#EXTINF:-1,USA: Horror network   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17033.ts
+#EXTINF:-1,USA: Juce TV   [640x480]
+http://51.254.197.114:8000/live/mic07/2101/24889.ts
+#EXTINF:-1,USA: Major crime   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17058.ts
+#EXTINF:-1,USA: Horror channel   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17044.ts
+#EXTINF:-1,USA: France 24 american   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17066.ts
+#EXTINF:-1,USA: Making the movies   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17049.ts
+#EXTINF:-1,USA: Kiss Tv Music   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4579.ts
+#EXTINF:-1,USA: Movie loft tv   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17045.ts
+#EXTINF:-1,USA: MIRACLE CH   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/25034.ts
+#EXTINF:-1,USA: Live television net   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17079.ts
+#EXTINF:-1,USA: News Brooklyn(Stream 1)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4666.ts
+#EXTINF:-1,USA: FOX 30   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/24260.ts
+#EXTINF:-1,USA: Alien invasion channel   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17043.ts
+#EXTINF:-1,USA: Monster madhouse   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17035.ts
+#EXTINF:-1,USA: FOX 47   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/25648.ts
+#EXTINF:-1,USA: Poker TV   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/25029.ts
+#EXTINF:-1,USA: Ctv lethbridge   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17031.ts
+#EXTINF:-1,USA: New york channel   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17057.ts
+#EXTINF:-1,USA: News 12 Long Island(Stream 1)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4663.ts
+#EXTINF:-1,USA: Eurotrash   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17054.ts
+#EXTINF:-1,USA: Film on family   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17047.ts
+#EXTINF:-1,USA: News Bronx(Stream 1)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4664.ts
+#EXTINF:-1,USA: News Hudson Valley(Stream 1)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4669.ts
+#EXTINF:-1,USA: News Long Island(Weather)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4672.ts
+#EXTINF:-1,USA: News Bronx(Weather)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4665.ts
+#EXTINF:-1,USA: NEWSMAX TV   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/24249.ts
+#EXTINF:-1,USA: NHK World News   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/24263.ts
+#EXTINF:-1,USA: News Connecticut(Stream 1)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4667.ts
+#EXTINF:-1,USA: News Hudson Valley(Weather)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4670.ts
+#EXTINF:-1,USA: News Westchester(Stream 1)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4675.ts
+#EXTINF:-1,USA: News New Jersey(Stream 1)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4673.ts
+#EXTINF:-1,USA: News New Jersey(Weather)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4674.ts
+#EXTINF:-1,USA: Press tv   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17077.ts
+#EXTINF:-1,USA: Red carpet   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17065.ts
+#EXTINF:-1,USA: Russia today   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17072.ts
+#EXTINF:-1,USA: Rsquadred   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17038.ts
+#EXTINF:-1,USA: News Connecticut(Weather)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4668.ts
+#EXTINF:-1,USA: NFL Now   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/7645.ts
+#EXTINF:-1,USA: Sherlok holmes   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17050.ts
+#EXTINF:-1,USA: TVA Canada (FR)   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/25037.ts
+#EXTINF:-1,USA: Savoir TV   [640x480]
+http://51.254.197.114:8000/live/mic07/2101/25032.ts
+#EXTINF:-1,USA: TBN   [512x288]
+http://51.254.197.114:8000/live/mic07/2101/25030.ts
+#EXTINF:-1,USA: Roc summer explosion   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17059.ts
+#EXTINF:-1,USA: Terror flix   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17039.ts
+#EXTINF:-1,USA:ABC NEWS   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/4662.ts
+#EXTINF:-1,USA: Weather Nation   [640x368]
+http://51.254.197.114:8000/live/mic07/2101/24256.ts
+#EXTINF:-1,USA: Wealth TV   [320x192]
+http://51.254.197.114:8000/live/mic07/2101/25028.ts
+#EXTINF:-1,USA: Truth files   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17067.ts
+#EXTINF:-1,USA: Vevo3 HD   [960x544]
+http://51.254.197.114:8000/live/mic07/2101/4578.ts
+#EXTINF:-1,USA: What american think   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17073.ts
+#EXTINF:-1,USA:NASA TV   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/4653.ts
+#EXTINF:-1,USA: SPORT US HD   [1920x1088]
+http://51.254.197.114:8000/live/mic07/2101/7550.ts
+#EXTINF:-1,USA: GLOBAL MONTREAL   [720x576]
+http://62.210.104.34:80/live/joseph/joseph/2762.ts
+#EXTINF:-1,USA: Tv gold   [864x480]
+http://51.254.197.114:8000/live/mic07/2101/17062.ts
+#EXTINF:-1,USA:LONDON LIVE   [960x544]
+http://51.254.197.114:8000/live/mic07/2101/4644.ts
+#EXTINF:-1,USA | C SPAN 1   [1024x576]
+http://51.254.197.114:8000/live/mic07/2101/23039.ts
+#EXTINF:-1,USA: Weather TV   [1280x720]
+http://51.254.197.114:8000/live/mic07/2101/7643.ts
+#EXTINF:-1,USA: Vevo2 HD   [960x544]
+http://51.254.197.114:8000/live/mic07/2101/4577.ts
+#EXTINF:-1,USA:ISS Live 2   [432x288]
+http://51.254.197.114:8000/live/mic07/2101/4631.ts
+#EXTINF:-1,USA: CNN   [704x576]
+http://51.254.197.114:8000/live/mic07/2101/24251.ts
+#EXTINF:-1,USA: Vevo1 HD   [960x544]
+http://51.254.197.114:8000/live/mic07/2101/4576.ts
+#EXTINF:-1, TSN 3   [1280x720]
+http://149.202.195.182:2500/live/Jacques3/Jacques3/2321.ts
+#EXTINF:-1,USA: ABC News   [640x368]
+http://151.80.20.227:8000/live/Hasan/Hasan/354.ts
+#EXTINF:-1,USA: Musicbox   [720x544]
+http://151.80.20.227:8000/live/Hasan/Hasan/380.ts
+#EXTINF:-1,USA: PAC Net2 SD   [640x368]
+http://151.80.20.227:8000/live/Hasan/Hasan/362.ts
